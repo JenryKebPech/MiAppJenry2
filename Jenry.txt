@@ -1,4 +1,9 @@
 JenryYova.txt
+<<<<<<< HEAD
 Yovaaaa
 XD
 Claro
+=======
+Se modifica xd
+Ya?
+>>>>>>> develop2
